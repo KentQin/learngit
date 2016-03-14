@@ -6,3 +6,4 @@ A
 B
 C
 Dddd
+git tracks changes.
